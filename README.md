@@ -3,6 +3,9 @@
 # HCLSWorkshopDS
 Data Science for Healthcare and Life Science Workshop.  In this repository you will find data science realted, links to the topics discussed, code examples, and other associated assets from the workshop.  
 
+## Cloud Pak for Data Project
+[Showcased CP4D Project Repository with Assets Displayed](https://github.com/krondor/cpd-overview)
+
 ## Cloud Pak for Data Industry Accelerators
 [IBM Cloud Pak Community Accelerators](https://community.ibm.com/community/user/cloudpakfordata/more-featured-2)
 
